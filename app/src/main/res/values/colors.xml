@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#FFFFFF</color>
+    <color name="blue_txt">#4DC9C3</color>
+
+    <!-- camera -->
+    <color name="black">#333333</color>
+    <color name="blue">#205ba9</color>
+    <color name="gray">#c8c8c8</color>
+    <color name="red">#bd2228</color>
+    <!-- scan color -->
+    <color name="viewfinder_frame">#929292</color>
+    <color name="viewfinder_laser">#fe5600</color>
+    <color name="result_view">#b0000000</color>
+    <color name="possible_result_points">#c0ffff00</color>
+    <color name="scan_code_lan">#4CC9C3</color>
+    <color name="transparent">#00000000</color>
+    <color name="viewfinder_laser_left">#717171</color>
+    <color name="viewfinder_laser_center">#4DC9C3</color>
+    <color name="viewfinder_laser_right">#717171</color>
+    <color name="dark_gray">#515151</color>
+
+    <color name="smssdk_gray">#ff898989</color>
+
+    <color name="bg_main">#f8f8f8</color>
+    <color name="e0">#E0E0E0</color>
+    <color name="color_f6">#f6f6f6</color>
+    <color name="clear" >#00000000</color>
+    <color name="light_gray">#F2F2F2</color>
+    <color name="green">#37CC99</color>
+</resources>
